@@ -60,8 +60,7 @@
 - [**Cuatomer Churn Analysis**](https://github.com/imkalpana/customer-churn-analysis) 
 **Goal:** Analyze telecom customer behavior to predict churn using the **IBM Telco Customer Churn Dataset**.  
 **Highlights:**
-- Implemented full **data science lifecycle** — data cleaning, EDA, feature engineering, ML modeling, and dashboarding.  
-- Built **Logistic Regression, Random Forest, and XGBoost** models achieving up to **85% accuracy**.  
+- Implemented full **data science lifecycle** — data cleaning, EDA, feature engineering, ML modeling, and dashboarding.    
 - Conducted **financial ROI analysis** to translate predictions into business impact.  
 - Developed **interactive dashboards** (Power BI / Dash) for business and technical insights.  
 
